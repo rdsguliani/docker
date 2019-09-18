@@ -16,4 +16,4 @@ ADD . /usr/local/docker-git-hello-world
 
 RUN cd /usr/local/docker-git-hello-world && mvn assembly:assembly
 
-CMD ["java", "-cp", "/usr/local/docker-git-hello-world/target/docker-git-hello-world-0.0.1-SNAPSHOT-jar-with-dependencies.jar", "org.pictolearn.docker.HelloWorldPing"]
+CMD ["java", "-cp", "/usr/local/docker-git-hello-world/target/hello-world-0.0.1-SNAPSHOT.jar", "org.demo.docker.App"]
