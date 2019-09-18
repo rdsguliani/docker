@@ -1,4 +1,4 @@
-Use case 2 : 
+nginx with docker 
 
   Deploy a nginx http server
   Override the configuration in it.
