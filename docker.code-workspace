@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "docker-101-microservice"
+		},
+		{
+			"path": "docker-101-microservice-onbuild"
+		},
+		{
+			"path": "docker-mvc"
+		},
+		{
+			"path": "nginx-with-docker"
+		},
+		{
+			"path": "volum-and-logs-sharing"
+		},
+		{
+			"path": "docker-101-only-app"
+		},
+		{
+			"path": "docker"
+		}
+	],
+	"settings": {}
+}
